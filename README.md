@@ -1,2 +1,10 @@
 # game-proposal
-Main Project 1 Proposal
+# The 
+#Wire frame directory
+![](..wireframe/test.png)
+
+Car racers 
+
+
+### Timeline
+
